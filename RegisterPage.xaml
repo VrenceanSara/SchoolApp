@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SchoolApp.RegisterPage"
+             Title="RegisterPage">
+
+    <ScrollView>
+        <StackLayout Padding="20">
+            <Label Text="Înregistrează-te ca student"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"/>
+
+            <Entry x:Name="numeEntry" Placeholder="Nume" />
+            <Entry x:Name="prenumeEntry" Placeholder="Prenume" />
+            <Entry x:Name="emailEntry" Placeholder="Email" Keyboard="Email"/>
+            <Entry x:Name="telefonEntry" Placeholder="Număr Telefon" Keyboard="Telephone"/>
+            <Entry x:Name="adresaEntry" Placeholder="Adresă" />
+            <Entry x:Name="passwordEntry" Placeholder="Parolă" IsPassword="True"/>
+            <Entry x:Name="confirmPasswordEntry" Placeholder="Confirmă Parola" IsPassword="True"/>
+
+            <Button Text="Înregistrează-te" Clicked="OnRegisterClicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
