@@ -6,8 +6,8 @@
 
     <StackLayout Padding="20">
         <Entry x:Name="emailEntry" Placeholder="Email" />
-        <Entry x:Name="passwordEntry" Placeholder="Parolă" IsPassword="True" />
+        <Entry x:Name="passwordEntry" Placeholder="Parola" IsPassword="True" />
         <Button Text="Autentificare" Clicked="OnLoginClicked" />
-        <Button Text="Înregistrare" Clicked="OnRegisterClicked" />
+        <Button Text="Inregistrare" Clicked="OnRegisterClicked" />
     </StackLayout>
 </ContentPage>

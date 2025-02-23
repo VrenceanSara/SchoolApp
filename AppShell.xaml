@@ -21,8 +21,8 @@
             ContentTemplate="{DataTemplate local:ProfessorsPage}" />
 
         <ShellContent 
-            Title="Programări"
-            ContentTemplate="{DataTemplate local:ProgramarePage}" />
+            Title="Programari"
+            ContentTemplate="{DataTemplate local:ProgramariPage}" />
 
         <ShellContent 
             Title="Feedback"

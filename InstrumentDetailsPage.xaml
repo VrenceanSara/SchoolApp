@@ -8,7 +8,7 @@
         <Label Text="Nume Instrument:" />
         <Entry Text="{Binding NumeInstrument}" />
 
-        <Button Text="Salvează" Clicked="OnSaveButtonClicked" />
-        <Button Text="Șterge" Clicked="OnDeleteButtonClicked" />
+        <Button Text="Salveaza" Clicked="OnSaveButtonClicked" />
+        <Button Text="Sterge" Clicked="OnDeleteButtonClicked" />
     </StackLayout>
 </ContentPage>

@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-02-22T19:40:24.096</Modified>
+      <Modified>2025-02-23T04:19:15.636</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-02-22T19:32:38.837</Modified>
+      <Modified>2025-02-23T04:19:15.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SchoolApp.runtimeconfig.json">
       <PackagePath>SchoolApp.runtimeconfig.json</PackagePath>
-      <Modified>2025-02-22T19:32:38.240</Modified>
+      <Modified>2025-02-23T04:19:15.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SchoolApp.dll">
       <PackagePath>SchoolApp.dll</PackagePath>
-      <Modified>2025-02-22T19:40:22.669</Modified>
+      <Modified>2025-02-23T04:19:13.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>SchoolApp.exe</PackagePath>
-      <Modified>2025-02-22T19:40:22.678</Modified>
+      <Modified>2025-02-23T04:19:13.715</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-02-22T17:29:07.689</Modified>
+      <Modified>2025-02-23T04:19:07.329</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-02-22T17:29:07.710</Modified>
+      <Modified>2025-02-23T04:19:07.345</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-02-22T17:29:07.742</Modified>
+      <Modified>2025-02-23T04:19:07.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-02-22T17:29:07.799</Modified>
+      <Modified>2025-02-23T04:19:07.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-02-22T17:29:07.966</Modified>
+      <Modified>2025-02-23T04:19:07.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,211 +83,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-02-22T17:29:09.251</Modified>
+      <Modified>2025-02-23T04:19:08.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.238</Modified>
+      <Modified>2025-02-23T04:19:08.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.237</Modified>
+      <Modified>2025-02-23T04:19:08.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.237</Modified>
+      <Modified>2025-02-23T04:19:08.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.237</Modified>
+      <Modified>2025-02-23T04:19:08.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.237</Modified>
+      <Modified>2025-02-23T04:19:08.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.246</Modified>
+      <Modified>2025-02-23T04:19:08.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.245</Modified>
+      <Modified>2025-02-23T04:19:08.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.245</Modified>
+      <Modified>2025-02-23T04:19:08.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.245</Modified>
+      <Modified>2025-02-23T04:19:08.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.245</Modified>
+      <Modified>2025-02-23T04:19:08.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.247</Modified>
+      <Modified>2025-02-23T04:19:08.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.247</Modified>
+      <Modified>2025-02-23T04:19:08.685</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.246</Modified>
+      <Modified>2025-02-23T04:19:08.685</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.247</Modified>
+      <Modified>2025-02-23T04:19:08.685</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.246</Modified>
+      <Modified>2025-02-23T04:19:08.685</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.251</Modified>
+      <Modified>2025-02-23T04:19:08.689</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.251</Modified>
+      <Modified>2025-02-23T04:19:08.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.250</Modified>
+      <Modified>2025-02-23T04:19:08.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.250</Modified>
+      <Modified>2025-02-23T04:19:08.688</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.250</Modified>
+      <Modified>2025-02-23T04:19:08.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.249</Modified>
+      <Modified>2025-02-23T04:19:08.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.249</Modified>
+      <Modified>2025-02-23T04:19:08.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.248</Modified>
+      <Modified>2025-02-23T04:19:08.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.249</Modified>
+      <Modified>2025-02-23T04:19:08.687</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.248</Modified>
+      <Modified>2025-02-23T04:19:08.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.241</Modified>
+      <Modified>2025-02-23T04:19:08.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.241</Modified>
+      <Modified>2025-02-23T04:19:08.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.240</Modified>
+      <Modified>2025-02-23T04:19:08.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.240</Modified>
+      <Modified>2025-02-23T04:19:08.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.240</Modified>
+      <Modified>2025-02-23T04:19:08.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.243</Modified>
+      <Modified>2025-02-23T04:19:08.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.242</Modified>
+      <Modified>2025-02-23T04:19:08.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.242</Modified>
+      <Modified>2025-02-23T04:19:08.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.242</Modified>
+      <Modified>2025-02-23T04:19:08.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.241</Modified>
+      <Modified>2025-02-23T04:19:08.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.244</Modified>
+      <Modified>2025-02-23T04:19:08.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.244</Modified>
+      <Modified>2025-02-23T04:19:08.683</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.244</Modified>
+      <Modified>2025-02-23T04:19:08.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.243</Modified>
+      <Modified>2025-02-23T04:19:08.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.243</Modified>
+      <Modified>2025-02-23T04:19:08.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.240</Modified>
+      <Modified>2025-02-23T04:19:08.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.239</Modified>
+      <Modified>2025-02-23T04:19:08.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.239</Modified>
+      <Modified>2025-02-23T04:19:08.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.239</Modified>
+      <Modified>2025-02-23T04:19:08.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.238</Modified>
+      <Modified>2025-02-23T04:19:08.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.253</Modified>
+      <Modified>2025-02-23T04:19:08.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.253</Modified>
+      <Modified>2025-02-23T04:19:08.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.252</Modified>
+      <Modified>2025-02-23T04:19:08.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.252</Modified>
+      <Modified>2025-02-23T04:19:08.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-02-22T17:29:09.252</Modified>
+      <Modified>2025-02-23T04:19:08.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SchoolApp.deps.json">
       <PackagePath>SchoolApp.deps.json</PackagePath>
-      <Modified>2025-02-22T19:32:37.956</Modified>
+      <Modified>2025-02-23T04:19:15.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -24,5 +24,8 @@ namespace SchoolApp.Models
 
         [OneToMany]
         public List<Feedback> Feedbackuri { get; set; }
+
+        [Ignore]
+        public string DisplayName { get; set; }
     }
 }

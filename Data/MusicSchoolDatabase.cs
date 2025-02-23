@@ -44,6 +44,11 @@ namespace SchoolApp.Data
         public Task<Member> GetMemberByIdAsync(int id) =>
             _database.Table<Member>().Where(m => m.ID == id).FirstOrDefaultAsync();
 
+        public async Task<List<Member>> GetMembersByRoleAsync(string role)
+        {
+            return await _database.Table<Member>().Where(m => m.Role == role).ToListAsync();
+        }
+
 
 
 

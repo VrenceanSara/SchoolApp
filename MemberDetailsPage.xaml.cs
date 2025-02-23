@@ -15,11 +15,4 @@ public partial class MemberDetailsPage : ContentPage
         await App.Database.SaveMemberAsync(member);
         await Navigation.PopAsync();
     }
-
-    async void OnDeleteButtonClicked(object sender, EventArgs e)
-    {
-        var member = (Member)BindingContext;
-        await App.Database.DeleteMemberAsync(member);
-        await Navigation.PopAsync();
-    }
 }

@@ -2,25 +2,24 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SchoolApp.MemberDetailsPage"
-             Title="MemberDetailsPage">
-
+             Title="Detalii Student">
+    
     <StackLayout Padding="20">
-        <Label Text="Nume:" />
-        <Entry Text="{Binding Nume}" />
-
         <Label Text="Prenume:" />
         <Entry Text="{Binding Prenume}" />
 
-        <Label Text="Email:" />
-        <Entry Text="{Binding Email}" />
+        <Label Text="Nume:" />
+        <Entry Text="{Binding Nume}" />
 
-        <Label Text="Număr Telefon:" />
+        <Label Text="Email:" />
+        <Entry Text="{Binding Email}"/>
+
+        <Label Text="Numar Telefon:" />
         <Entry Text="{Binding NumarTelefon}" />
 
-        <Label Text="Adresă:" />
+        <Label Text="Adresa:" />
         <Entry Text="{Binding Adresa}" />
 
-        <Button Text="Salvează" Clicked="OnSaveButtonClicked" />
-        <Button Text="Șterge" Clicked="OnDeleteButtonClicked" />
+        <Button Text="Salveaza" Clicked="OnSaveButtonClicked" />
     </StackLayout>
 </ContentPage>

@@ -15,21 +15,21 @@
                    WidthRequest="150"
                    HorizontalOptions="Center"/>
 
-            <Label Text="Aplicația Music School este creată pentru a gestiona programările, membrii și instrumentele unei școli de muzică. Aceasta oferă funcționalități precum:"
+            <Label Text="Aplicatia Music School este creata pentru a gestiona programarile, membrii si instrumentele unei scoli de muzica. Aceasta ofera functionalitati precum:"
                    FontSize="16"
                    Margin="0,10,0,10"/>
 
-            <Label Text="✔ Autentificare și autorizare bazată pe roluri"
+            <Label Text="✔ Autentificare si autorizare bazata pe roluri"
                    FontSize="14"/>
-            <Label Text="✔ Gestionarea studenților și profesorilor"
+            <Label Text="✔ Gestionarea studentilor si profesorilor"
                    FontSize="14"/>
-            <Label Text="✔ Programarea lecțiilor de muzică"
+            <Label Text="✔ Programarea lectiilor de muzica"
                    FontSize="14"/>
             <Label Text="✔ Alocarea instrumentelor pentru membrii"
                    FontSize="14"/>
-            <Label Text="✔ Trimiterea de notificări pentru programări"
+            <Label Text="✔ Trimiterea de notificari pentru programari"
                    FontSize="14"/>
-            <Label Text="✔ Feedback pentru lecțiile susținute"
+            <Label Text="✔ Feedback pentru lectiile sustinute"
                    FontSize="14"/>
 
             <Label Text="🔹 Dezvoltator: Sara Marta Vrencean"

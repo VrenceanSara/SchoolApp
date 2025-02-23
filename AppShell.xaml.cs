@@ -7,7 +7,7 @@
             InitializeComponent();
 
             Routing.RegisterRoute(nameof(MemberDetailsPage), typeof(MemberDetailsPage));
-            Routing.RegisterRoute(nameof(ProgramarePage), typeof(ProgramarePage));
+            Routing.RegisterRoute(nameof(ProgramariPage), typeof(ProgramariPage));
             Routing.RegisterRoute(nameof(InstrumentDetailsPage), typeof(InstrumentDetailsPage));
 
             Routing.RegisterRoute(nameof(FeedbackDetailsPage), typeof(FeedbackDetailsPage));

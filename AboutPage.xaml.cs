@@ -9,12 +9,13 @@ public partial class AboutPage : ContentPage
 
     private async void OnLogoutClicked(object sender, EventArgs e)
     {
-        bool confirm = await DisplayAlert("Logout", "E?ti sigur cã vrei sã te deconectezi?", "Da", "Nu");
+        bool confirm = await DisplayAlert("Logout", "Esti sigur ca vrei sa te deconectezi?", "Da", "Nu");
 
         if (confirm)
         {
             Preferences.Remove("UserEmail");
             Preferences.Remove("UserRole");
+            Preferences.Remove("ID");
 
             App.Current.MainPage = new NavigationPage(new LoginPage());
         }

@@ -13,9 +13,7 @@ public partial class InstrumentsPage : ContentPage
     {
         base.OnAppearing();
 
-        string userRole = Preferences.Get("UserRole", "User");
-
-        //addButton.IsVisible = userRole == "Admin";
+        listView.ItemsSource = await App.Database.GetInstrumentsAsync();
     }
 
     async void OnInstrumentSelected(object sender, SelectedItemChangedEventArgs e)

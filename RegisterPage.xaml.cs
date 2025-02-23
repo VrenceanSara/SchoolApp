@@ -33,12 +33,12 @@ public partial class RegisterPage : ContentPage
 
         if (success)
         {
-            await DisplayAlert("Succes", "Înregistrare completã! Acum te po?i autentifica.", "OK");
+            await DisplayAlert("Succes", "Inregistrare completa! Acum te poti autentifica.", "OK");
             await Navigation.PopAsync();
         }
         else
         {
-            await DisplayAlert("Eroare", "Înregistrare e?uatã!", "OK");
+            await DisplayAlert("Eroare", "Inregistrare esuata!", "OK");
         }
     }
 }

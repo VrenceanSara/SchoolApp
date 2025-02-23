@@ -15,12 +15,14 @@ public partial class LoginPage : ContentPage
         {
             Preferences.Set("UserEmail", user.Email);
             Preferences.Set("UserRole", user.Role);
+            Preferences.Set("ID", user.ID);
 
-            App.Current.MainPage = new AppShell(); // Dupã login, schimbã pagina principalã
+            await ((App)Application.Current).CheckAndSendNotifications();
+            App.Current.MainPage = new AppShell();
         }
         else
         {
-            await DisplayAlert("Eroare", "Email sau parolã incorectã", "OK");
+            await DisplayAlert("Eroare", "Email sau parola incorecta", "OK");
         }
     }
 

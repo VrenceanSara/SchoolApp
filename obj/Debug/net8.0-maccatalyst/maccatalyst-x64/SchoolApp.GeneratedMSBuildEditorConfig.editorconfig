@@ -66,12 +66,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = SchoolApp.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
 build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
 
-[C:/Users/Maria/Desktop/Project/SchoolApp/MainPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = SchoolApp.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
-
 [C:/Users/Maria/Desktop/Project/SchoolApp/MemberDetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SchoolApp.MemberDetailsPage.xaml
@@ -90,11 +84,17 @@ build_metadata.AdditionalFiles.ManifestResourceName = SchoolApp.ProfessorsPage.x
 build_metadata.AdditionalFiles.TargetPath = ProfessorsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ProfessorsPage.xaml
 
-[C:/Users/Maria/Desktop/Project/SchoolApp/ProgramarePage.xaml]
+[C:/Users/Maria/Desktop/Project/SchoolApp/ProgramareDetailsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = SchoolApp.ProgramarePage.xaml
-build_metadata.AdditionalFiles.TargetPath = ProgramarePage.xaml
-build_metadata.AdditionalFiles.RelativePath = ProgramarePage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SchoolApp.ProgramareDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ProgramareDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ProgramareDetailsPage.xaml
+
+[C:/Users/Maria/Desktop/Project/SchoolApp/ProgramariPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SchoolApp.ProgramariPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ProgramariPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ProgramariPage.xaml
 
 [C:/Users/Maria/Desktop/Project/SchoolApp/RegisterPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

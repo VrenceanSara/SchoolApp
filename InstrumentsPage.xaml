@@ -2,10 +2,10 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SchoolApp.InstrumentsPage"
-             Title="InstrumentsPage">
+             Title="Instrumente">
 
     <StackLayout Padding="20">
-        <ListView x:Name="listView" ItemSelected="OnInstrumentSelected">
+        <ListView x:Name="listView">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextCell Text="{Binding NumeInstrument}" />
@@ -13,6 +13,6 @@
             </ListView.ItemTemplate>
         </ListView>
 
-        <Button Text="Adaugă Instrument" Clicked="OnAddInstrumentClicked" />
+        <Button Text="Adauga Instrument" Clicked="OnAddInstrumentClicked" />
     </StackLayout>
 </ContentPage>

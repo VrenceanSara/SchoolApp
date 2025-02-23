@@ -1,4 +1,6 @@
-﻿using SchoolApp.Data;
+﻿using Plugin.LocalNotification;
+using SchoolApp.Data;
+using SchoolApp.Models;
 
 namespace SchoolApp
 {
@@ -26,6 +28,7 @@ namespace SchoolApp
 
             if (Preferences.ContainsKey("UserEmail"))
             {
+                Task.Run(async () => await CheckAndSendNotifications());
                 MainPage = new AppShell();
             }
             else
@@ -33,5 +36,51 @@ namespace SchoolApp
                 MainPage = new NavigationPage(new LoginPage());
             }
         }
+
+        public async Task CheckAndSendNotifications()
+        {
+            string userRole = Preferences.Get("UserRole", "User");
+            int userId = Preferences.Get("ID", -1);
+
+            if (userRole == "Admin") return; // Adminii nu primesc notificări
+
+            var allProgramari = await App.Database.GetProgramariAsync();
+            var now = DateTime.Now;
+            var in24h = now.AddHours(24);
+
+            List<Programare> programariViitoare;
+
+            if (userRole == "Student")
+            {
+                programariViitoare = allProgramari.Where(p => p.StudentID == userId && p.OraProgramarii >= now && p.OraProgramarii <= in24h).ToList();
+            }
+            else if (userRole == "Profesor")
+            {
+                programariViitoare = allProgramari.Where(p => p.TeacherID == userId && p.OraProgramarii >= now && p.OraProgramarii <= in24h).ToList();
+            }
+            else
+            {
+                return;
+            }
+
+            foreach (var programare in programariViitoare)
+            {
+                string mesaj = $"Ai o lecție programată pe {programare.OraProgramarii:dd/MM/yyyy HH:mm} la {programare.AdresaProgramarii}";
+
+                var notification = new NotificationRequest
+                {
+                    NotificationId = programare.ID,
+                    Title = "Reminder Lecție",
+                    Description = mesaj,
+                    Schedule = new NotificationRequestSchedule
+                    {
+                        NotifyTime = programare.OraProgramarii.AddMinutes(-30) // Trimitem notificarea cu 30 min înainte
+                    }
+                };
+
+                await LocalNotificationCenter.Current.Show(notification);
+            }
+        }
+
     }
 }

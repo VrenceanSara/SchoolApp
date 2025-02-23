@@ -30,5 +30,7 @@ namespace SchoolApp.Models
 
         [OneToMany]
         public List<Feedback> Feedbackuri { get; set; }
+
+        public string FullName => $"{Prenume} {Nume}";
     }
 }
