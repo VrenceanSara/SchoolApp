@@ -1,4 +1,5 @@
-﻿using Plugin.LocalNotification;
+﻿using System.Net;
+using Plugin.LocalNotification;
 using SchoolApp.Data;
 using SchoolApp.Models;
 
@@ -42,7 +43,7 @@ namespace SchoolApp
             string userRole = Preferences.Get("UserRole", "User");
             int userId = Preferences.Get("ID", -1);
 
-            if (userRole == "Admin") return; // Adminii nu primesc notificări
+            if (userRole == "Admin") return;
 
             var allProgramari = await App.Database.GetProgramariAsync();
             var now = DateTime.Now;
@@ -74,11 +75,12 @@ namespace SchoolApp
                     Description = mesaj,
                     Schedule = new NotificationRequestSchedule
                     {
-                        NotifyTime = programare.OraProgramarii.AddMinutes(-30) // Trimitem notificarea cu 30 min înainte
+                        NotifyTime = DateTime.Now.AddSeconds(1)
                     }
                 };
 
                 await LocalNotificationCenter.Current.Show(notification);
+
             }
         }
 

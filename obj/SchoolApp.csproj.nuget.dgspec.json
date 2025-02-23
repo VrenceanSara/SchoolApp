@@ -113,6 +113,14 @@
               "target": "Package",
               "version": "[1.4.5.2, )"
             },
+            "Xamarin.AndroidX.Collection.Ktx": {
+              "target": "Package",
+              "version": "[1.4.5.2, )"
+            },
+            "Xamarin.AndroidX.Fragment.Ktx": {
+              "target": "Package",
+              "version": "[1.8.5.2, )"
+            },
             "sqlite-net-pcl": {
               "target": "Package",
               "version": "[1.9.172, )"

@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|c:\\users\\maria\\desktop\\project\\schoolapp\\schoolapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|solutionrelative:schoolapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|c:\\users\\maria\\desktop\\project\\schoolapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|c:\\users\\maria\\desktop\\project\\schoolapp\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|c:\\users\\maria\\desktop\\project\\schoolapp\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|solutionrelative:loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|c:\\users\\maria\\desktop\\project\\schoolapp\\programaredetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|solutionrelative:programaredetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|c:\\users\\maria\\desktop\\project\\schoolapp\\schoolapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|solutionrelative:schoolapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|c:\\users\\maria\\desktop\\project\\schoolapp\\data\\musicschooldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9D8384-DDDC-4703-A389-2FF7D23DD79B}|SchoolApp.csproj|solutionrelative:data\\musicschooldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:03:11.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\LoginPage.xaml",
+              "RelativeToolTip": "LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-23T05:01:44.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgramareDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\ProgramareDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProgramareDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\ProgramareDetailsPage.xaml.cs",
+              "RelativeToolTip": "ProgramareDetailsPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:28:35.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicSchoolDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\Data\\MusicSchoolDatabase.cs",
+              "RelativeDocumentMoniker": "Data\\MusicSchoolDatabase.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\Data\\MusicSchoolDatabase.cs",
+              "RelativeToolTip": "Data\\MusicSchoolDatabase.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T04:50:34.499Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,20 +96,20 @@
               "RelativeDocumentMoniker": "LoginPage.xaml.cs",
               "ToolTip": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\LoginPage.xaml.cs",
               "RelativeToolTip": "LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T03:54:59.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SchoolApp",
+              "DocumentIndex": 4,
+              "Title": "SchoolApp.csproj",
               "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\SchoolApp.csproj",
               "RelativeDocumentMoniker": "SchoolApp.csproj",
-              "ToolTip": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\SchoolApp.csproj",
-              "RelativeToolTip": "SchoolApp.csproj",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHwAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Project\\SchoolApp\\SchoolApp.csproj*",
+              "RelativeToolTip": "SchoolApp.csproj*",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAIwI0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-23T03:45:52.821Z",
               "EditorCaption": ""

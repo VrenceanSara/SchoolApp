@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-02-23T04:19:15.636</Modified>
+      <Modified>2025-02-23T05:12:44.636</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-02-23T04:19:15.261</Modified>
+      <Modified>2025-02-23T05:12:44.310</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SchoolApp.runtimeconfig.json">
       <PackagePath>SchoolApp.runtimeconfig.json</PackagePath>
-      <Modified>2025-02-23T04:19:15.124</Modified>
+      <Modified>2025-02-23T05:12:43.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SchoolApp.dll">
       <PackagePath>SchoolApp.dll</PackagePath>
-      <Modified>2025-02-23T04:19:13.624</Modified>
+      <Modified>2025-02-23T05:12:42.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>SchoolApp.exe</PackagePath>
-      <Modified>2025-02-23T04:19:13.715</Modified>
+      <Modified>2025-02-23T05:12:42.186</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -287,7 +287,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\Desktop\Project\SchoolApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SchoolApp.deps.json">
       <PackagePath>SchoolApp.deps.json</PackagePath>
-      <Modified>2025-02-23T04:19:15.118</Modified>
+      <Modified>2025-02-23T05:12:43.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Maria\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
